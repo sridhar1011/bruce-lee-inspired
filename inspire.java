@@ -63,7 +63,7 @@ public class inspire {
             "\"To know oneself, is to study oneself in action with another person.\" - Bruce Lee",
             "\"The successful warrior is the average man, with laser-like focus.\" - Bruce Lee",
             "\"Man, the living creature, the creating individual, is always more important than any established style or system.\" - Bruce Lee",
-            "\"In the middle of chaos lies the greatest opportunity.\" - Bruce Lee"
+            "\"In the middle of chaos lies the greatest opportunity.\" - Bruce Lee",
             "\"Today is MY DAY,I am the BEST\" - Bruce Lee"
         };
         
